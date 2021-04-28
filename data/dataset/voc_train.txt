@@ -1,0 +1,602 @@
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00206_270d_leveld.jpg 125,8,89,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00206_270d_verticald.jpg 76,193,112,89,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00209_90d_leveld.jpg 57,86,30,185,0 30,33,5,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00209_90d_verticald.jpg 143,114,170,15,0 170,167,195,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00211_180d_leveld.jpg 120,85,17,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00211_180d_verticald.jpg 81,116,184,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00212_leveld.jpg 148,51,41,84,0 165,122,73,157,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00212_verticald.jpg 52,149,159,116,0 35,78,127,43,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00214_180d_leveld.jpg 178,18,27,65,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00214_180d_verticald.jpg 23,183,174,136,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00214_270d_leveld.jpg 183,27,136,178,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00214_270d_verticald.jpg 18,174,65,23,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00215_180d_leveld.jpg 45,66,8,106,0 81,26,48,64,0 189,4,84,41,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00215_180d_verticald.jpg 156,135,193,95,0 120,175,153,137,0 12,197,117,160,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00216_180d_leveld.jpg 43,79,14,111,0 192,85,114,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00216_180d_verticald.jpg 158,122,187,90,0 9,116,87,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00219_leveld.jpg 128,157,2,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00219_verticald.jpg 72,43,198,11,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00220_90d_leveld.jpg 80,4,54,76,0 47,98,23,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00220_90d_verticald.jpg 120,196,146,124,0 153,102,177,60,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00221_180d_leveld.jpg 179,131,71,154,0 198,94,123,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00221_180d_verticald.jpg 22,70,130,47,0 3,107,78,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00221_270d_leveld.jpg 70,71,47,179,0 107,123,80,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00221_270d_verticald.jpg 131,130,154,22,0 94,78,121,3,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00225_90d_leveld.jpg 104,13,77,113,0 76,2,48,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00225_90d_verticald.jpg 96,187,123,87,0 124,198,152,124,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00227_90d_leveld.jpg 109,135,70,198,0 92,7,47,142,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00227_90d_verticald.jpg 91,65,130,2,0 108,193,153,58,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00229_270d_leveld.jpg 90,25,51,99,0 145,8,117,62,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00229_270d_verticald.jpg 111,176,150,102,0 56,193,84,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00230_90d_leveld.jpg 115,172,78,196,0 104,15,64,162,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00230_90d_verticald.jpg 85,28,122,4,0 96,185,136,38,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00231_180d_leveld.jpg 141,138,25,166,0 197,127,162,147,0 175,37,133,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00231_180d_verticald.jpg 60,63,176,35,0 4,74,39,54,0 26,164,68,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00231_leveld.jpg 175,34,60,61,0 38,53,4,72,0 67,96,26,162,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00231_verticald.jpg 25,166,140,139,0 162,147,196,128,0 133,104,174,38,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00233_leveld.jpg 140,18,13,41,0 43,55,15,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00233_verticald.jpg 60,182,187,159,0 157,145,185,102,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00236_180d_leveld.jpg 138,115,1,143,0 197,102,161,130,0 194,3,157,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00236_180d_verticald.jpg 63,86,200,58,0 4,99,40,71,0 7,198,44,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00237_180d_leveld.jpg 127,66,15,95,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00237_180d_verticald.jpg 74,135,186,106,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00244_leveld.jpg 179,87,5,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00244_verticald.jpg 21,113,195,69,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00247_270d_leveld.jpg 80,9,61,57,0 100,22,79,72,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00247_270d_verticald.jpg 121,192,140,144,0 101,179,122,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00247_leveld.jpg 191,61,144,79,0 178,78,129,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00247_verticald.jpg 9,139,56,121,0 22,122,71,102,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00250_180d_leveld.jpg 55,74,29,96,0 160,77,91,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00250_180d_verticald.jpg 146,127,172,105,0 41,124,110,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00251_180d_leveld.jpg 181,104,106,183,0 107,11,36,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00251_180d_verticald.jpg 20,97,95,18,0 94,190,165,109,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00251_90d_leveld.jpg 184,20,104,95,0 93,94,11,165,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00251_90d_verticald.jpg 16,180,96,105,0 107,106,189,35,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00251_leveld.jpg 94,17,20,95,0 164,108,94,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00251_verticald.jpg 106,183,180,105,0 36,92,106,12,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00252_180d_leveld.jpg 147,74,89,152,0 95,7,50,70,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00252_180d_verticald.jpg 54,127,112,49,0 106,194,151,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00252_leveld.jpg 111,48,54,125,0 150,130,106,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00252_verticald.jpg 89,152,146,75,0 50,70,94,8,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00256_270d_leveld.jpg 97,7,70,87,0 113,93,86,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00256_270d_verticald.jpg 104,194,131,114,0 88,108,115,1,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00257_180d_leveld.jpg 105,110,1,147,0 200,96,108,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00257_180d_verticald.jpg 96,91,200,54,0 1,105,93,72,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00259_270d_leveld.jpg 91,3,53,110,0 109,112,67,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00259_270d_verticald.jpg 110,198,148,91,0 92,89,134,3,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00259_90d_leveld.jpg 148,91,111,198,0 134,3,92,89,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00259_90d_verticald.jpg 52,109,89,2,0 66,197,108,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00260_90d_leveld.jpg 147,95,118,197,0 128,0,104,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00260_90d_verticald.jpg 53,105,82,3,0 72,200,96,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00260_leveld.jpg 196,54,95,82,0 92,72,0,95,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00260_verticald.jpg 4,146,105,118,0 108,128,200,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00263_leveld.jpg 196,81,103,129,0 97,47,1,89,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00263_verticald.jpg 4,119,97,71,0 103,153,199,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00264_180d_leveld.jpg 107,74,1,109,0 201,86,116,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00264_180d_verticald.jpg 94,127,200,92,0 0,115,85,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00266_90d_leveld.jpg 96,38,56,169,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00266_90d_verticald.jpg 104,162,144,31,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00267_90d_leveld.jpg 199,20,84,90,0 55,104,3,153,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00267_90d_verticald.jpg 1,180,116,110,0 145,96,197,47,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00272_180d_leveld.jpg 154,89,119,186,0 132,0,108,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00272_180d_verticald.jpg 47,112,82,15,0 69,201,93,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00272_leveld.jpg 81,14,47,110,0 92,116,69,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00272_verticald.jpg 119,186,153,90,0 108,84,131,0,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00273_270d_leveld.jpg 114,132,44,198,0 189,70,129,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00273_270d_verticald.jpg 87,69,157,3,0 12,131,72,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00273_90d_leveld.jpg 158,3,87,69,0 73,80,12,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00273_90d_verticald.jpg 42,197,113,131,0 127,120,188,69,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00275_180d_leveld.jpg 113,74,14,108,0 195,56,114,83,0 108,55,43,77,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00275_180d_verticald.jpg 88,127,187,93,0 6,145,87,118,0 93,146,158,124,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00276_180d_leveld.jpg 66,8,20,166,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00276_180d_verticald.jpg 135,193,181,35,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00276_270d_leveld.jpg 192,20,34,66,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00276_270d_verticald.jpg 9,181,167,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00280_90d_leveld.jpg 119,70,75,151,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00280_90d_verticald.jpg 81,130,125,49,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00284_270d_leveld.jpg 80,75,22,186,0 160,25,83,80,0 201,130,164,162,0 59,5,6,28,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00284_270d_verticald.jpg 121,126,179,15,0 41,176,118,121,0 0,71,37,39,0 142,196,195,173,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00286_270d_leveld.jpg 111,136,64,174,0 171,97,123,138,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00286_270d_verticald.jpg 90,65,137,27,0 30,104,78,63,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00288_270d_leveld.jpg 130,109,94,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00288_270d_verticald.jpg 71,92,107,5,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00288_90d_leveld.jpg 107,5,72,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00288_90d_verticald.jpg 93,195,128,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00290_180d_leveld.jpg 55,95,21,164,0 149,119,68,140,0 59,72,34,114,0 196,87,161,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00290_180d_verticald.jpg 146,106,180,37,0 52,82,133,61,0 142,129,167,87,0 5,114,40,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00290_leveld.jpg 179,36,146,104,0 132,60,52,80,0 166,86,142,127,0 39,75,5,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00290_verticald.jpg 21,164,54,96,0 68,140,148,120,0 34,114,58,73,0 161,125,195,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00293_180d_leveld.jpg 61,65,8,110,0 151,11,89,59,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00293_180d_verticald.jpg 140,136,193,91,0 50,190,112,142,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00293_leveld.jpg 192,90,140,134,0 111,141,50,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00293_verticald.jpg 8,110,60,66,0 89,59,150,12,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00294_90d_leveld.jpg 123,16,65,65,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00294_90d_verticald.jpg 77,184,135,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00294_leveld.jpg 64,77,16,134,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00294_verticald.jpg 136,123,184,66,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00295_270d_leveld.jpg 106,2,74,89,0 93,107,64,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00295_270d_verticald.jpg 95,199,127,112,0 108,94,137,5,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00296_180d_leveld.jpg 94,118,1,148,0 144,70,95,136,0 190,66,151,81,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00296_180d_verticald.jpg 107,83,200,53,0 57,131,106,65,0 11,135,50,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00297_180d_leveld.jpg 122,77,1,104,0 200,87,134,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00297_180d_verticald.jpg 79,124,200,97,0 1,114,67,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00298_90d_leveld.jpg 151,65,126,191,0 101,27,73,176,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00298_90d_verticald.jpg 49,135,74,9,0 99,173,127,24,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00301_180d_leveld.jpg
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00301_180d_verticald.jpg
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00304_90d_leveld.jpg 141,5,70,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00304_90d_verticald.jpg 59,195,130,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00305_90d_leveld.jpg 130,99,90,189,0 85,94,64,159,0 63,45,35,90,0 87,13,68,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00305_90d_verticald.jpg 70,101,110,11,0 115,106,136,41,0 137,155,165,110,0 113,187,132,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00305_leveld.jpg 188,71,99,110,0 158,116,94,135,0 89,137,45,164,0 78,113,13,131,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00305_verticald.jpg 12,129,101,90,0 42,84,106,65,0 111,63,155,36,0 122,87,187,69,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00306_270d_leveld.jpg 99,18,57,104,0 128,38,108,113,0 169,116,132,171,0 123,113,98,182,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00306_270d_verticald.jpg 102,183,144,97,0 73,163,93,88,0 32,85,69,30,0 78,88,103,19,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00306_90d_leveld.jpg 144,97,103,183,0 94,88,74,163,0 69,30,32,85,0 103,19,78,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00306_90d_verticald.jpg 56,103,97,17,0 106,112,126,37,0 131,170,168,115,0 97,181,122,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00306_leveld.jpg 182,57,97,97,0 162,107,88,126,0 84,131,30,167,0 87,97,19,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00306_verticald.jpg 18,143,103,103,0 38,93,112,74,0 116,69,170,33,0 113,103,181,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00310_270d_leveld.jpg 139,33,83,100,0 143,109,106,187,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00310_270d_verticald.jpg 62,168,118,101,0 58,92,95,14,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00311_90d_leveld.jpg 124,92,55,141,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00311_90d_verticald.jpg 76,108,145,59,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00312_leveld.jpg 196,65,128,114,0 132,137,57,184,0 58,165,4,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00312_verticald.jpg 4,135,72,86,0 68,63,143,16,0 142,35,196,7,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00313_270d_leveld.jpg 129,49,96,152,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00313_270d_verticald.jpg 72,152,105,49,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00313_leveld.jpg 151,95,49,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00313_verticald.jpg 49,105,151,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00316_leveld.jpg 69,19,34,76,0 73,122,50,173,0 140,89,96,200,0 82,88,64,151,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00316_verticald.jpg 131,181,166,124,0 127,78,150,27,0 60,111,104,0,0 118,112,136,49,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00317_270d_leveld.jpg 127,13,105,130,0 109,138,88,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00317_270d_verticald.jpg 74,188,96,71,0 92,63,113,13,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00318_90d_leveld.jpg 185,58,58,89,0 117,49,51,73,0 50,133,4,148,0 157,91,61,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00318_90d_verticald.jpg 15,142,142,111,0 83,151,149,127,0 150,67,196,52,0 43,109,139,74,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00318_leveld.jpg 88,16,58,141,0 72,83,49,148,0 147,150,133,195,0 125,44,91,138,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00318_verticald.jpg 112,184,142,59,0 128,117,151,52,0 53,50,67,5,0 75,156,109,62,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00319_90d_leveld.jpg 178,51,60,90,0 61,7,27,49,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00319_90d_verticald.jpg 22,149,140,110,0 139,193,173,151,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00320_90d_leveld.jpg 178,85,37,124,0 51,20,8,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00320_90d_verticald.jpg 22,115,163,76,0 149,180,192,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00321_270d_leveld.jpg 92,85,66,149,0 127,1,96,88,0 154,97,118,167,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00321_270d_verticald.jpg 109,116,135,52,0 74,200,105,113,0 47,104,83,34,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00321_90d_leveld.jpg 135,52,109,116,0 106,113,75,200,0 83,34,47,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00321_90d_verticald.jpg 65,148,91,84,0 94,87,125,0,0 117,166,153,96,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00321_leveld.jpg 115,65,52,90,0 199,95,113,125,0 103,117,34,152,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00321_verticald.jpg 85,135,148,110,0 1,105,87,75,0 97,83,166,48,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00322_leveld.jpg 105,60,8,105,0 178,67,122,151,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00322_verticald.jpg 95,140,192,95,0 22,133,78,49,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00323_leveld.jpg 55,4,33,41,0 116,30,60,57,0 139,65,106,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00323_verticald.jpg 145,196,167,159,0 84,170,140,143,0 61,135,94,7,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00324_180d_leveld.jpg 103,119,78,195,0 120,2,83,110,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00324_180d_verticald.jpg 98,82,123,6,0 81,199,118,91,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00324_90d_leveld.jpg 196,98,120,123,0 111,81,2,118,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00324_90d_verticald.jpg 4,102,80,77,0 89,119,198,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00324_leveld.jpg 122,5,98,80,0 117,90,81,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00324_verticald.jpg 78,195,102,120,0 83,110,119,3,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00326_270d_leveld.jpg 103,66,15,100,0 196,81,117,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00326_270d_verticald.jpg 98,135,186,101,0 5,120,84,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00327_180d_leveld.jpg 107,92,55,142,0 159,41,109,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00327_180d_verticald.jpg 94,109,146,59,0 42,160,92,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00327_90d_leveld.jpg 143,94,93,146,0 78,42,41,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00327_90d_verticald.jpg 57,106,107,54,0 122,158,159,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00327_leveld.jpg 145,58,94,107,0 91,122,42,158,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00327_verticald.jpg 55,142,106,93,0 109,78,158,42,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00328_180d_leveld.jpg 120,122,81,199,0 137,6,110,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00328_180d_verticald.jpg 81,79,120,2,0 64,195,91,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00328_90d_leveld.jpg 200,81,123,120,0 117,64,6,91,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00328_90d_verticald.jpg 0,119,77,80,0 83,136,194,109,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00330_leveld.jpg 150,78,97,148,0 92,146,38,170,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00330_verticald.jpg 50,122,103,52,0 108,54,162,30,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00332_270d_leveld.jpg 122,14,93,111,0 113,118,78,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00332_270d_verticald.jpg 79,187,108,90,0 88,83,123,1,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00333_270d_leveld.jpg 123,6,97,81,0 106,97,76,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00333_270d_verticald.jpg 78,195,104,120,0 95,104,125,2,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00334_leveld.jpg 169,88,49,117,0 39,100,3,157,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00334_verticald.jpg 31,112,151,83,0 161,100,197,43,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00335_90d_leveld.jpg 84,83,61,154,0 99,5,79,75,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00335_90d_verticald.jpg 116,117,139,46,0 101,195,121,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00336_90d_leveld.jpg 157,121,120,176,0 110,80,12,114,0 176,59,142,137,0 144,18,96,50,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00336_90d_verticald.jpg 43,79,80,24,0 90,120,188,86,0 24,141,58,63,0 56,182,104,150,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00343_180d_leveld.jpg 198,68,83,152,0 120,131,13,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00343_180d_verticald.jpg 3,133,118,49,0 81,70,188,6,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00343_270d_leveld.jpg 133,83,49,198,0 69,13,5,120,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00343_270d_verticald.jpg 68,118,152,3,0 132,188,196,81,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00343_leveld.jpg 117,48,3,131,0 187,5,81,68,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00343_verticald.jpg 83,152,197,69,0 13,195,119,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00345_180d_leveld.jpg 146,10,77,144,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00345_180d_verticald.jpg 55,191,124,57,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00346_90d_leveld.jpg 181,78,13,145,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00346_90d_verticald.jpg 19,122,187,55,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00349_180d_leveld.jpg 78,76,21,134,0 139,2,91,72,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00349_180d_verticald.jpg 123,125,180,67,0 62,199,110,129,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00350_180d_leveld.jpg 152,75,87,164,0 93,3,45,60,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00350_180d_verticald.jpg 49,126,114,37,0 108,198,156,141,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00354_180d_leveld.jpg 135,47,99,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00354_180d_verticald.jpg 66,154,102,8,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00354_270d_leveld.jpg 154,99,8,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00354_270d_verticald.jpg 47,102,193,66,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00354_leveld.jpg 101,7,66,152,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00354_verticald.jpg 99,193,134,48,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00355_270d_leveld.jpg 196,83,8,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00355_270d_verticald.jpg 5,118,193,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00355_90d_leveld.jpg 194,73,5,118,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00355_90d_verticald.jpg 6,127,195,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00356_270d_leveld.jpg 58,50,9,124,0 131,131,63,187,0 201,174,142,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00356_270d_verticald.jpg 143,151,192,77,0 70,70,138,14,0 0,27,59,2,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00356_90d_leveld.jpg 193,77,143,151,0 139,14,70,70,0 59,2,-1,27,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00356_90d_verticald.jpg 7,123,57,49,0 61,186,130,130,0 141,198,201,173,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00358_270d_leveld.jpg 195,78,17,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00358_270d_verticald.jpg 6,123,184,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00360_180d_leveld.jpg 79,124,14,172,0 97,32,58,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00360_180d_verticald.jpg 122,77,187,29,0 104,169,143,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00360_90d_leveld.jpg 173,122,125,187,0 122,104,32,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00360_90d_verticald.jpg 27,78,75,13,0 78,96,168,57,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00362_180d_leveld.jpg 153,124,94,182,0 173,20,143,109,0 178,129,145,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00362_180d_verticald.jpg 48,77,107,19,0 28,181,58,92,0 23,72,56,8,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00362_90d_leveld.jpg 183,48,124,107,0 109,28,20,58,0 194,23,129,56,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00362_90d_verticald.jpg 17,152,76,93,0 91,172,180,142,0 6,177,71,144,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00363_270d_leveld.jpg 152,91,33,124,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00363_270d_verticald.jpg 49,110,168,77,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00364_180d_leveld.jpg 153,62,112,190,0 172,0,136,40,0 197,148,153,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00364_180d_verticald.jpg 48,139,89,11,0 29,201,65,161,0 4,53,48,2,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00364_270d_leveld.jpg 139,112,11,153,0 201,136,161,172,0 53,153,2,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00364_270d_verticald.jpg 62,89,190,48,0 0,65,40,29,0 148,48,199,4,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00368_90d_leveld.jpg 164,22,1,96,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00368_90d_verticald.jpg 36,178,199,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00369_270d_leveld.jpg 179,100,38,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00369_270d_verticald.jpg 22,101,163,12,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00371_180d_leveld.jpg 120,50,83,147,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00371_180d_verticald.jpg 81,151,118,54,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00377_90d_leveld.jpg 184,84,10,133,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00377_90d_verticald.jpg 16,116,190,67,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00379_270d_leveld.jpg 124,57,71,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00379_270d_verticald.jpg 77,144,130,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00379_90d_leveld.jpg 130,73,78,144,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00379_90d_verticald.jpg 70,127,122,56,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00380_leveld.jpg 187,90,104,126,0 93,101,9,130,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00380_verticald.jpg 13,110,96,74,0 107,99,191,70,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00381_180d_leveld.jpg 112,78,1,110,0 198,36,163,66,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00381_180d_verticald.jpg 89,123,200,91,0 3,165,38,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00382_180d_leveld.jpg 96,45,22,75,0 169,3,106,55,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00382_180d_verticald.jpg 105,156,179,126,0 32,198,95,146,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00382_270d_leveld.jpg 155,22,126,96,0 198,106,146,169,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00382_270d_verticald.jpg 46,179,75,105,0 3,95,55,32,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00382_90d_leveld.jpg 76,105,45,179,0 55,32,3,95,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00382_90d_verticald.jpg 124,95,155,21,0 145,168,197,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00384_270d_leveld.jpg 177,86,60,139,0 44,61,16,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00384_270d_verticald.jpg 24,115,141,62,0 157,140,185,6,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00384_leveld.jpg 114,59,62,175,0 139,15,6,42,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00384_verticald.jpg 86,141,138,25,0 61,185,194,158,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00385_leveld.jpg 192,10,158,28,0 131,28,43,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00385_verticald.jpg 8,190,42,172,0 69,172,157,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00386_270d_leveld.jpg 176,134,12,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00386_270d_verticald.jpg 25,67,189,10,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00386_90d_leveld.jpg 190,10,25,67,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00386_90d_verticald.jpg 10,190,175,133,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00393_leveld.jpg 145,69,76,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00393_verticald.jpg 55,131,124,68,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00394_180d_leveld.jpg 51,100,7,128,0 186,68,89,115,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00394_180d_verticald.jpg 150,101,194,73,0 15,133,112,86,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00395_90d_leveld.jpg 170,87,95,168,0 76,24,9,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00395_90d_verticald.jpg 30,113,105,32,0 124,176,191,116,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00397_180d_leveld.jpg 89,81,51,193,0 127,0,73,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00397_180d_verticald.jpg 112,120,150,8,0 74,201,128,128,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00399_90d_leveld.jpg 195,82,100,148,0 98,30,9,99,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00399_90d_verticald.jpg 5,118,100,52,0 102,170,191,101,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00399_leveld.jpg 147,6,82,100,0 98,102,30,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00399_verticald.jpg 53,194,118,100,0 102,98,170,10,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00400_90d_leveld.jpg 189,92,85,133,0 77,66,8,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00400_90d_verticald.jpg 11,108,115,67,0 123,134,192,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00402_90d_leveld.jpg 166,97,92,182,0 80,16,20,89,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00402_90d_verticald.jpg 34,103,108,18,0 120,184,180,111,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00404_270d_leveld.jpg 113,8,80,107,0 93,117,60,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00404_270d_verticald.jpg 88,193,121,94,0 108,84,141,1,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00404_90d_leveld.jpg 122,94,89,193,0 142,1,108,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00404_90d_verticald.jpg 78,106,111,7,0 58,199,92,116,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00406_leveld.jpg 90,69,3,118,0 188,118,95,166,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00406_verticald.jpg 110,131,197,82,0 12,82,105,34,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00407_180d_leveld.jpg 180,127,83,182,0 76,114,4,161,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00407_180d_verticald.jpg 21,74,118,19,0 125,87,197,40,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00407_90d_leveld.jpg 183,21,127,118,0 162,125,115,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00407_90d_verticald.jpg 17,179,73,82,0 38,75,85,3,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00408_90d_leveld.jpg 185,3,127,102,0 128,113,74,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00408_90d_verticald.jpg 15,197,73,98,0 72,87,126,2,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00409_90d_leveld.jpg 121,143,64,196,0 127,61,62,139,0 170,1,117,58,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00409_90d_verticald.jpg 79,57,136,4,0 73,139,138,61,0 30,199,83,142,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00412_90d_leveld.jpg 174,17,120,92,0 123,103,68,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00412_90d_verticald.jpg 26,183,80,108,0 77,97,132,10,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00413_180d_leveld.jpg 106,33,7,96,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00413_180d_verticald.jpg 95,168,194,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00414_90d_leveld.jpg 94,0,67,93,0 93,114,52,189,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00414_90d_verticald.jpg 106,200,133,107,0 107,86,148,11,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00415_270d_leveld.jpg 94,54,8,94,0 181,2,101,58,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00415_270d_verticald.jpg 107,147,193,107,0 20,199,100,143,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00416_270d_leveld.jpg 132,125,49,188,0 201,74,134,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00416_270d_verticald.jpg 69,76,152,13,0 0,127,67,69,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00417_180d_leveld.jpg 156,110,94,188,0 100,18,51,94,0 192,32,110,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00417_180d_verticald.jpg 45,91,107,13,0 101,183,150,107,0 9,169,91,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00418_90d_leveld.jpg 109,127,0,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00418_90d_verticald.jpg 91,73,200,7,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00420_180d_leveld.jpg 193,73,96,106,0 82,8,9,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00420_180d_verticald.jpg 8,128,105,95,0 119,193,192,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00420_leveld.jpg 104,94,8,126,0 191,116,119,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00420_verticald.jpg 96,106,192,74,0 9,84,81,9,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00421_90d_leveld.jpg 174,73,84,107,0 77,97,7,133,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00421_90d_verticald.jpg 26,127,116,93,0 123,103,193,67,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00422_270d_leveld.jpg 75,15,14,75,0 194,139,136,191,0 119,80,79,118,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00422_270d_verticald.jpg 126,186,187,126,0 7,62,65,10,0 82,121,122,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00422_90d_leveld.jpg 187,126,127,186,0 65,10,7,62,0 123,83,83,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00422_90d_verticald.jpg 13,74,73,14,0 135,190,193,138,0 77,117,117,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00423_270d_leveld.jpg 116,9,35,101,0 190,113,116,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00423_270d_verticald.jpg 85,192,166,100,0 11,88,85,8,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00426_leveld.jpg 193,103,146,152,0 135,152,95,195,0 122,5,62,55,0 55,61,9,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00426_verticald.jpg 7,97,54,48,0 65,48,105,5,0 78,195,138,145,0 145,139,191,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00430_180d_leveld.jpg 109,89,7,131,0 201,31,122,80,0 73,4,9,48,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00430_180d_verticald.jpg 92,112,194,70,0 0,170,79,121,0 128,197,192,153,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00432_270d_leveld.jpg 138,44,41,106,0 193,46,128,95,0 108,108,51,160,0 31,156,2,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00432_270d_verticald.jpg 63,157,160,95,0 8,155,73,106,0 93,93,150,41,0 170,45,199,22,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00432_90d_leveld.jpg 160,95,62,157,0 74,106,7,155,0 151,41,93,93,0 200,22,171,45,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00432_90d_verticald.jpg 40,105,138,43,0 126,94,193,45,0 49,159,107,107,0 0,178,29,155,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00435_270d_leveld.jpg 65,148,38,196,0 85,22,32,110,0 142,118,78,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00435_270d_verticald.jpg 136,53,163,5,0 116,179,169,91,0 59,83,123,6,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00437_270d_leveld.jpg 90,14,28,178,0 176,157,98,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00437_270d_verticald.jpg 111,187,173,23,0 25,44,103,0,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00438_90d_leveld.jpg 161,81,30,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00438_90d_verticald.jpg 39,119,170,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00439_90d_leveld.jpg 186,123,82,193,0 79,90,0,175,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00439_90d_verticald.jpg 14,77,118,7,0 121,110,200,25,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00440_180d_leveld.jpg 196,39,6,132,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00440_180d_verticald.jpg 5,162,195,69,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00441_180d_leveld.jpg 196,35,15,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00441_180d_verticald.jpg 5,166,186,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00442_270d_leveld.jpg 194,1,79,96,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00442_270d_verticald.jpg 7,200,122,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00443_270d_leveld.jpg 123,12,57,195,0 185,103,128,184,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00443_270d_verticald.jpg 78,189,144,6,0 16,98,73,17,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00443_leveld.jpg 188,56,6,121,0 97,127,17,183,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00443_verticald.jpg 12,144,194,79,0 103,73,183,17,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00444_180d_leveld.jpg 98,92,4,180,0 141,0,44,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00444_180d_verticald.jpg 103,109,197,21,0 60,201,157,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00444_90d_leveld.jpg 181,103,93,197,0 89,60,0,157,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00444_90d_verticald.jpg 19,97,107,3,0 111,140,200,43,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00445_leveld.jpg 144,4,73,103,0 111,106,37,196,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00445_verticald.jpg 56,196,127,97,0 89,94,163,4,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00447_leveld.jpg 99,5,60,107,0 111,112,73,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00447_verticald.jpg 101,195,140,93,0 89,88,127,8,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00448_leveld.jpg 183,59,81,98,0 97,107,58,187,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00448_verticald.jpg 17,141,119,102,0 103,93,142,13,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00452_180d_leveld.jpg 195,102,107,155,0 97,49,5,109,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00452_180d_verticald.jpg 6,99,94,46,0 104,152,196,92,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00453_90d_leveld.jpg 180,2,97,125,0 88,118,21,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00453_90d_verticald.jpg 20,198,103,75,0 112,82,179,1,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00454_180d_leveld.jpg 148,111,102,188,0 103,35,62,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00454_180d_verticald.jpg 53,90,99,13,0 98,166,139,94,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00456_leveld.jpg 195,38,147,103,0 157,109,122,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00456_verticald.jpg 5,162,53,97,0 43,91,78,0,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00457_270d_leveld.jpg 195,70,51,94,0 167,115,121,192,0 199,12,170,51,0 173,8,152,35,0 154,4,131,44,0 124,1,107,38,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00457_270d_verticald.jpg 6,131,150,107,0 34,86,80,9,0 2,189,31,150,0 28,193,49,166,0 47,197,70,157,0 77,200,94,163,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00457_90d_leveld.jpg 150,107,6,131,0 80,9,34,86,0 30,150,1,189,0 48,166,27,193,0 69,157,46,197,0 94,163,77,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00457_90d_verticald.jpg 50,93,194,69,0 120,191,166,114,0 170,50,199,11,0 152,34,173,7,0 131,43,154,3,0 106,37,123,0,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00457_leveld.jpg 130,51,107,193,0 85,120,9,165,0 188,170,150,198,0 192,152,166,172,0 196,131,157,153,0 199,107,163,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00457_verticald.jpg 70,149,93,7,0 115,80,191,35,0 12,30,50,2,0 8,48,34,28,0 4,69,43,47,0 1,93,37,77,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00458_90d_leveld.jpg 169,113,101,192,0 95,65,60,139,0 56,50,5,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00458_90d_verticald.jpg 31,87,99,8,0 105,135,140,61,0 144,150,195,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00458_leveld.jpg 191,32,113,99,0 138,106,65,139,0 87,144,50,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00458_verticald.jpg 9,168,87,101,0 62,94,135,61,0 113,56,150,6,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00460_90d_leveld.jpg 190,152,129,187,0 117,39,66,146,0 60,11,7,44,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00460_90d_verticald.jpg 10,48,71,13,0 83,161,134,54,0 140,189,193,156,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00461_180d_leveld.jpg 102,141,62,196,0 140,92,92,146,0 194,35,137,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00461_180d_verticald.jpg 99,60,139,5,0 61,109,109,55,0 7,166,64,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00461_270d_leveld.jpg 59,62,5,102,0 109,92,55,140,0 166,137,121,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00461_270d_verticald.jpg 142,139,196,99,0 92,109,146,61,0 35,64,80,7,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00461_90d_leveld.jpg 197,99,142,139,0 147,61,93,109,0 80,7,35,64,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00461_90d_verticald.jpg 3,101,58,61,0 53,139,107,91,0 120,193,165,136,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00464_90d_leveld.jpg 100,133,32,186,0 174,53,149,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00464_90d_verticald.jpg 100,67,168,14,0 26,147,51,10,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00464_leveld.jpg 185,101,133,167,0 189,27,53,51,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00464_verticald.jpg 15,99,67,33,0 11,173,147,149,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00465_270d_leveld.jpg 72,65,21,137,0 166,95,87,157,0 177,21,148,85,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00465_270d_verticald.jpg 129,136,180,64,0 35,106,114,44,0 24,180,53,116,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00466_270d_leveld.jpg 71,104,30,177,0 152,129,73,195,0 174,60,144,122,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00466_270d_verticald.jpg 130,97,171,24,0 49,72,128,6,0 27,141,57,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00466_90d_leveld.jpg 172,24,130,97,0 128,6,49,72,0 57,79,27,141,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00466_90d_verticald.jpg 28,176,70,103,0 72,194,151,128,0 143,121,173,59,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00469_180d_leveld.jpg 72,33,6,59,0 147,8,82,39,0 170,136,107,164,0 191,102,72,150,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00469_180d_verticald.jpg 129,168,195,142,0 54,193,119,162,0 31,65,94,37,0 10,99,129,51,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00470_270d_leveld.jpg 79,79,5,169,0 151,2,84,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00470_270d_verticald.jpg 122,122,196,32,0 50,199,117,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00471_90d_leveld.jpg 194,99,161,124,0 112,98,23,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00471_90d_verticald.jpg 6,101,39,76,0 88,102,177,65,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00472_180d_leveld.jpg 153,125,106,194,0 78,52,10,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00472_180d_verticald.jpg 48,76,95,7,0 123,149,191,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00472_90d_leveld.jpg 195,48,125,95,0 109,123,52,191,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00472_90d_verticald.jpg 5,152,75,105,0 91,77,148,9,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00473_180d_leveld.jpg 170,118,110,189,0 92,46,11,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00473_180d_verticald.jpg 31,83,91,12,0 109,155,190,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00474_180d_leveld.jpg 84,53,1,119,0 200,72,93,124,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00474_180d_verticald.jpg 117,148,200,82,0 1,129,108,77,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00474_270d_leveld.jpg 147,1,82,84,0 129,93,77,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00474_270d_verticald.jpg 54,200,119,117,0 72,108,124,1,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00474_leveld.jpg 199,81,117,146,0 107,76,1,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00474_verticald.jpg 1,119,83,54,0 93,124,199,73,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00475_270d_leveld.jpg 117,5,7,52,0 174,57,126,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00475_270d_verticald.jpg 84,196,194,149,0 27,144,75,7,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00475_90d_leveld.jpg 194,149,84,196,0 75,7,27,144,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00475_90d_verticald.jpg 6,51,116,4,0 125,193,173,56,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00476_270d_leveld.jpg 101,14,23,78,0 180,81,112,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00476_270d_verticald.jpg 100,187,178,123,0 21,120,89,61,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00477_180d_leveld.jpg 111,107,17,173,0 194,40,122,100,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00477_180d_verticald.jpg 90,94,184,28,0 7,161,79,101,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00477_90d_leveld.jpg 174,90,108,184,0 100,7,40,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00477_90d_verticald.jpg 26,110,92,16,0 100,193,160,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00478_180d_leveld.jpg 190,107,115,176,0 119,11,60,89,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00478_180d_verticald.jpg 11,94,86,25,0 82,190,141,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00480_270d_leveld.jpg 189,8,133,94,0 115,91,56,162,0 54,1,13,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00480_270d_verticald.jpg 12,193,68,107,0 86,110,145,39,0 147,200,188,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00481_180d_leveld.jpg 191,67,146,138,0 143,6,69,63,0 91,115,13,151,0 201,139,146,165,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00481_180d_verticald.jpg 10,134,55,63,0 58,195,132,138,0 110,86,188,50,0 0,62,55,36,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00486_90d_leveld.jpg 126,117,87,198,0 178,32,120,113,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00486_90d_verticald.jpg 74,83,113,2,0 22,168,80,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00487_90d_leveld.jpg 154,1,82,104,0 107,104,40,194,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00487_90d_verticald.jpg 46,199,118,96,0 93,96,160,6,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00488_270d_leveld.jpg 91,103,29,195,0 112,4,61,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00488_270d_verticald.jpg 110,98,172,6,0 89,197,140,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00488_90d_leveld.jpg 173,6,110,98,0 140,103,90,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00488_90d_verticald.jpg 27,194,90,102,0 60,97,110,3,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00489_270d_leveld.jpg 97,100,43,197,0 160,21,108,96,0 123,15,68,93,0 85,101,13,146,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00489_270d_verticald.jpg 104,101,158,4,0 41,180,93,105,0 78,186,133,108,0 116,100,188,55,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00489_leveld.jpg 100,42,4,95,0 179,107,105,159,0 185,68,108,121,0 99,12,55,83,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00489_verticald.jpg 100,158,196,105,0 21,93,95,41,0 15,132,92,79,0 101,188,145,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00492_leveld.jpg 81,92,41,194,0 138,73,65,92,0 179,163,161,200,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00492_verticald.jpg 119,108,159,6,0 62,127,135,108,0 21,37,39,0,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00493_180d_leveld.jpg 107,102,47,199,0 122,2,63,101,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00493_180d_verticald.jpg 94,99,154,2,0 79,199,138,100,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00493_90d_leveld.jpg 200,94,103,154,0 102,79,2,138,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00493_90d_verticald.jpg 0,106,97,46,0 98,121,198,62,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00498_180d_leveld.jpg 196,59,121,122,0 128,8,48,54,0 146,131,76,176,0 65,82,6,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00498_180d_verticald.jpg 5,142,80,79,0 73,193,153,147,0 55,70,125,25,0 136,119,195,75,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00498_270d_leveld.jpg 142,121,79,196,0 193,48,147,128,0 69,76,25,146,0 118,6,74,65,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00498_270d_verticald.jpg 59,80,122,5,0 8,153,54,73,0 132,125,176,55,0 83,195,127,136,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00500_270d_leveld.jpg 193,6,164,197,0 101,3,75,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00500_270d_verticald.jpg 8,195,37,4,0 100,198,126,11,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00500_90d_leveld.jpg 37,4,8,195,0 127,11,101,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00500_90d_verticald.jpg 163,196,192,5,0 73,189,99,2,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00501_90d_leveld.jpg 118,71,86,179,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00501_90d_verticald.jpg 82,129,114,21,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00501_leveld.jpg 178,83,71,114,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00501_verticald.jpg 22,117,129,86,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00502_90d_leveld.jpg 97,84,66,197,0 88,6,43,77,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00502_90d_verticald.jpg 103,116,134,3,0 112,194,157,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00502_leveld.jpg 196,104,84,133,0 76,112,6,156,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00502_verticald.jpg 4,96,116,67,0 124,88,194,44,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00503_180d_leveld.jpg 150,142,54,169,0 199,14,85,39,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00503_180d_verticald.jpg 51,59,147,32,0 2,187,116,162,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00504_180d_leveld.jpg 120,135,15,171,0 195,25,125,53,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00504_180d_verticald.jpg 81,66,186,30,0 6,176,76,148,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00504_leveld.jpg 185,29,81,64,0 75,147,6,174,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00504_verticald.jpg 15,171,119,136,0 125,53,194,26,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00506_90d_leveld.jpg 109,5,83,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00506_90d_verticald.jpg 91,195,117,5,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00507_270d_leveld.jpg 130,7,107,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00507_270d_verticald.jpg 71,194,94,0,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00508_180d_leveld.jpg 196,67,31,91,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00508_180d_verticald.jpg 5,134,170,110,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00511_180d_leveld.jpg 108,67,15,131,0 188,12,104,61,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00511_180d_verticald.jpg 93,134,186,70,0 13,189,97,140,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00511_270d_leveld.jpg 133,15,69,108,0 189,104,140,188,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00511_270d_verticald.jpg 68,186,132,93,0 12,97,61,13,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00513_90d_leveld.jpg 156,76,124,143,0 113,0,75,61,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00513_90d_verticald.jpg 44,124,76,57,0 87,200,125,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00516_180d_leveld.jpg 197,73,2,119,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00516_180d_verticald.jpg 4,128,199,82,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00516_90d_leveld.jpg 120,4,74,199,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00516_90d_verticald.jpg 80,196,126,1,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00519_270d_leveld.jpg 138,4,105,198,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00519_270d_verticald.jpg 63,197,96,3,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00519_leveld.jpg 196,104,3,136,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00519_verticald.jpg 4,96,197,64,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00525_270d_leveld.jpg 102,100,39,193,0 141,11,85,95,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00525_270d_verticald.jpg 99,101,162,8,0 60,190,116,106,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00527_180d_leveld.jpg 145,111,75,193,0 72,40,8,102,0 176,89,112,184,0 117,9,21,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00527_180d_verticald.jpg 56,90,126,8,0 129,161,193,99,0 25,112,89,17,0 84,192,180,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00529_leveld.jpg 106,93,11,126,0 198,125,114,162,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00529_verticald.jpg 94,107,189,74,0 2,75,86,38,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00530_90d_leveld.jpg 130,5,105,103,0 118,108,78,171,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00530_90d_verticald.jpg 70,195,95,97,0 82,92,122,29,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00531_180d_leveld.jpg 196,53,106,106,0 94,24,6,67,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00531_180d_verticald.jpg 5,148,95,95,0 107,177,195,134,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00532_90d_leveld.jpg 106,92,78,192,0 92,4,52,88,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00532_90d_verticald.jpg 94,108,122,8,0 108,196,148,112,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00534_270d_leveld.jpg 131,79,88,167,0 163,96,137,190,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00534_270d_verticald.jpg 70,122,113,34,0 38,105,64,11,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00534_90d_leveld.jpg 113,34,70,122,0 64,11,38,105,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00534_90d_verticald.jpg 87,166,130,78,0 136,189,162,95,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00536_180d_leveld.jpg 197,107,115,170,0 107,43,29,103,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00536_180d_verticald.jpg 4,94,86,31,0 94,158,172,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00536_leveld.jpg 85,30,4,92,0 171,97,94,156,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00536_verticald.jpg 115,170,196,108,0 29,103,106,44,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00542_90d_leveld.jpg 124,14,74,195,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00542_90d_verticald.jpg 76,186,126,5,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00543_180d_leveld.jpg 158,117,123,187,0 132,4,76,93,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00543_180d_verticald.jpg 43,84,78,14,0 69,197,125,108,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00544_leveld.jpg 115,6,74,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00544_verticald.jpg 85,194,126,8,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00545_270d_leveld.jpg 113,102,28,154,0 199,62,137,114,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00545_270d_verticald.jpg 88,99,173,47,0 2,139,64,87,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00546_90d_leveld.jpg 198,42,4,98,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00546_90d_verticald.jpg 2,158,196,102,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00547_270d_leveld.jpg 46,123,10,159,0 194,75,104,137,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00547_270d_verticald.jpg 155,78,191,42,0 7,126,97,64,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00548_90d_leveld.jpg 179,26,134,55,0 122,57,74,111,0 47,122,6,164,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00548_90d_verticald.jpg 21,174,66,145,0 78,143,126,89,0 153,78,194,36,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00549_180d_leveld.jpg 140,3,75,123,0 198,28,159,75,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00549_180d_verticald.jpg 61,198,126,78,0 3,173,42,126,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00550_180d_leveld.jpg 127,33,77,125,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00550_180d_verticald.jpg 74,168,124,76,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00550_270d_leveld.jpg 168,77,76,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00550_270d_verticald.jpg 33,124,125,74,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00552_270d_leveld.jpg 135,94,2,135,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00552_270d_verticald.jpg 66,107,199,66,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00552_leveld.jpg 106,1,66,133,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00552_verticald.jpg 94,199,134,67,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00557_90d_leveld.jpg 166,99,60,144,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00557_90d_verticald.jpg 34,101,140,56,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00557_leveld.jpg 143,35,99,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00557_verticald.jpg 57,165,101,61,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00558_90d_leveld.jpg 186,50,98,114,0 85,116,6,177,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00558_90d_verticald.jpg 14,150,102,86,0 115,84,194,23,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00560_180d_leveld.jpg 129,115,72,184,0 85,9,60,104,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00560_180d_verticald.jpg 72,86,129,17,0 116,192,141,97,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00562_90d_leveld.jpg 182,60,87,118,0 80,105,3,176,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00562_90d_verticald.jpg 18,140,113,82,0 120,95,197,24,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00563_leveld.jpg 90,6,35,90,0 183,117,100,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00563_verticald.jpg 110,194,165,110,0 17,83,100,3,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00774_270d_leveld.jpg 48,3,27,76,0 163,121,130,146,0 197,148,169,201,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00774_270d_verticald.jpg 153,198,174,125,0 38,80,71,55,0 4,53,32,0,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00778_90d_leveld.jpg 109,2,85,79,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00778_90d_verticald.jpg 91,198,115,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00781_180d_leveld.jpg 110,107,1,150,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00781_180d_verticald.jpg 91,94,200,51,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00785_90d_leveld.jpg 73,153,49,197,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00785_90d_verticald.jpg 127,47,151,3,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00786_180d_leveld.jpg 176,27,11,47,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00786_180d_verticald.jpg 25,174,190,154,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00786_leveld.jpg 189,153,25,172,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00786_verticald.jpg 11,47,175,28,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00787_270d_leveld.jpg 161,85,121,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00787_270d_verticald.jpg 40,116,80,8,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00787_90d_leveld.jpg 80,8,40,116,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00787_90d_verticald.jpg 120,192,160,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00787_leveld.jpg 115,120,8,159,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00787_verticald.jpg 85,80,192,41,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00788_180d_leveld.jpg 189,75,107,115,0 94,47,8,84,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00788_180d_verticald.jpg 12,126,94,86,0 107,154,193,117,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00788_270d_leveld.jpg 126,107,86,189,0 153,8,117,94,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00788_270d_verticald.jpg 75,94,115,12,0 48,193,84,107,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00788_90d_leveld.jpg 115,12,75,94,0 85,107,47,193,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00788_90d_verticald.jpg 85,188,125,106,0 115,93,153,7,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00789_270d_leveld.jpg 79,141,27,162,0 184,138,121,180,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00789_270d_verticald.jpg 122,60,174,39,0 17,63,80,21,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00789_leveld.jpg 59,26,39,77,0 62,120,21,182,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00789_verticald.jpg 141,174,161,123,0 138,80,179,18,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00790_180d_leveld.jpg 115,89,47,127,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00790_180d_verticald.jpg 86,112,154,74,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00791_180d_leveld.jpg 79,93,42,169,0 51,25,20,80,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00791_180d_verticald.jpg 122,108,159,32,0 150,176,181,121,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00791_leveld.jpg 158,31,122,106,0 180,120,150,174,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00791_verticald.jpg 42,169,78,94,0 20,80,50,26,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00793_270d_leveld.jpg 87,43,4,89,0 192,26,98,65,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00793_270d_verticald.jpg 114,158,197,112,0 9,175,103,136,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00794_270d_leveld.jpg 129,15,64,45,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00794_270d_verticald.jpg 72,186,137,156,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00797_90d_leveld.jpg 187,74,162,101,0 125,84,0,116,0 25,42,-1,61,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00797_90d_verticald.jpg 13,126,38,99,0 75,116,200,84,0 175,158,201,139,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00798_leveld.jpg 129,25,104,195,0 68,129,46,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00798_verticald.jpg 71,175,96,5,0 132,71,154,8,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00799_180d_leveld.jpg 161,13,135,130,0 99,33,76,192,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00799_180d_verticald.jpg 40,188,66,71,0 102,168,125,9,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00800_180d_leveld.jpg 119,34,98,193,0 178,20,157,123,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00800_180d_verticald.jpg 82,167,103,8,0 23,181,44,78,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00800_270d_leveld.jpg 167,98,8,119,0 181,157,78,178,0
+F:/slide_dataSets/slide/Voc2007_1\JPEGImages\00800_270d_verticald.jpg 34,103,193,82,0 20,44,123,23,0
