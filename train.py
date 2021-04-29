@@ -33,7 +33,7 @@ class YoloTrain(object):
         self.time = time.strftime('%Y-%m-%d-%H-%M-%S', time.localtime(time.time()))
         self.moving_ave_decay = cfg.YOLO.MOVING_AVE_DECAY
         self.max_bbox_per_scale = 150
-        self.train_logdir = "./data/log/train"  # 日志保存地址
+        self.train_logdir = "/content/drive/MyDrive/voc_2007_crack/Voc2007_1/data/log/train"  # 日志保存地址
         self.trainset = Dataset('train')
         self.testset = Dataset('test')
         self.steps_per_period = len(self.trainset)
@@ -137,7 +137,7 @@ class YoloTrain(object):
 
 
 
-            logdir = "./data/log/"  #  日志保存地址
+            logdir = "/content/drive/MyDrive/voc_2007_crack/Voc2007_1/log/"  #  日志保存地址
             if os.path.exists(logdir): shutil.rmtree(logdir)
             os.mkdir(logdir)
             self.write_op = tf.summary.merge_all()
@@ -197,7 +197,7 @@ class YoloTrain(object):
             train_epoch_loss, test_epoch_loss = np.mean(train_epoch_loss), np.mean(test_epoch_loss)
             self.summary_writer.add_summary(make_summary('evaluation/test_step_loss', test_epoch_loss),
                                             global_step=epoch)
-            ckpt_file = "./checkpoint/yolov3_train_loss=%.4f.ckpt" % train_epoch_loss
+            ckpt_file = "/content/drive/MyDrive/voc_2007_crack/Voc2007_1/checkpoint/yolov3_train_loss=%.4f.ckpt" % train_epoch_loss
             log_time = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))
             print("=> Epoch: %2d Time: %s Train loss: %.2f Test loss: %.2f lr：%2f Saving %s ..."
                   % (epoch, log_time, train_epoch_loss, test_epoch_loss, lr,ckpt_file))
