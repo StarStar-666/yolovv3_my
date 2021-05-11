@@ -1,6 +1,3 @@
-#! /usr/bin/env python
-# coding=utf-8
-
 import os
 import time
 import shutil
@@ -90,6 +87,7 @@ class YoloTrain(object):
                                     v.name.split('/')[0] not in ['conv_sbbox', 'conv_mbbox', 'conv_lbbox']]
             self.loader = tf.train.Saver(variables_to_restore)
             self.saver = tf.train.Saver(tf.global_variables(), max_to_keep=10)
+            self.best = tf.train.Saver(tf.global_variables(), max_to_keep=1)
 
 
         self.l2_loss_1 = tf.losses.get_regularization_loss()
@@ -203,6 +201,10 @@ class YoloTrain(object):
                   % (epoch, log_time, train_epoch_loss, test_epoch_loss, lr,ckpt_file))
             if epoch % 5 == 0:
                 self.saver.save(self.sess, ckpt_file, global_step=epoch)
+            if test_epoch_loss<test_loss:
+                test_loss = test_epoch_loss
+                ckpt_file = "./checkpoint/best_loss/yolov3_best_loss=%.4f.ckpt" % train_epoch_loss
+                self.best.save(self.sess, ckpt_file, global_step=epoch)
 
 
 
